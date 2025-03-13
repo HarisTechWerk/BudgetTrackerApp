@@ -1,1 +1,19 @@
+# Visual Studio files
 .vs/
+
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment files
+.env
